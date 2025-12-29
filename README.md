@@ -41,8 +41,12 @@ pip install faiss-gpu==<version>
 
 Large ML files (e.g., `.faiss`) are not included in the repo. You can:
 
-* Download them separately and place them in the correct folder:
+* Download them separately:
+```text
+https://drive.google.com/drive/folders/17gXuiY1ZTPm85jlEeSkxbyPCrv7aaqpY?usp=drive_link
+```
 
+* Place them in the correct folder:
 ```text
 dietary_reference_intakes/index.faiss
 ```
@@ -92,6 +96,5 @@ logs/
 .vscode/
 ```
 
-```
 
 ---
