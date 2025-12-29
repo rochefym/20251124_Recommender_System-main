@@ -20,6 +20,3 @@ logs/
 # OS / editor
 .DS_Store
 .vscode/
-venv/
-*.pyc
-__pycache__/
