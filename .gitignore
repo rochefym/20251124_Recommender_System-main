@@ -1,1 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
 venv/
+.env
+
+# ML / large binary files
+*.faiss
+*.pt
+*.pth
+*.onnx
+*.h5
+
+# OS / editor
+.DS_Store
+.vscode/
