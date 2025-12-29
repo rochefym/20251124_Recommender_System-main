@@ -14,7 +14,12 @@ venv/
 *.pth
 *.onnx
 *.h5
+dietary_reference_intakes/
+logs/
 
 # OS / editor
 .DS_Store
 .vscode/
+venv/
+*.pyc
+__pycache__/
