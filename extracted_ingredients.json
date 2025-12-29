@@ -1,0 +1,34 @@
+{
+    "ingredients": [
+        {
+            "name": "rice",
+            "food_group": "全穀雜糧類",
+            "nutrients": [
+                "Carbohydrate",
+                "Total Fiber"
+            ]
+        },
+        {
+            "name": "nori",
+            "food_group": "蔬菜類",
+            "nutrients": [
+                "Protein",
+                "Total Fiber",
+                "Water"
+            ]
+        },
+        {
+            "name": "salt",
+            "food_group": "調味品類",
+            "nutrients": []
+        },
+        {
+            "name": "salmon",
+            "food_group": "豆魚蛋肉類",
+            "nutrients": [
+                "Protein",
+                "Fats"
+            ]
+        }
+    ]
+}

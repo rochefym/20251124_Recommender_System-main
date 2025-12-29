@@ -1,0 +1,13 @@
+20251229_5070-log_run-recommender-server-terminal.txt
+db.sqlite3
+dri
+history
+ingredients_extractor
+intake
+manage.py
+menu
+ollama_llm
+rag
+recommendations
+recommender_system
+users

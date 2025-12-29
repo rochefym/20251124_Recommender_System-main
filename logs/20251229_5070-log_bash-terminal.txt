@@ -1,0 +1,13 @@
+k503@k503-Ubuntu-5070ti:~/下載/20251124_Recommender_System-main$ source /home/k503/下載/20251124_Recommender_System-main/venv/bin/activate
+(venv) k503@k503-Ubuntu-5070ti:~/下載/20251124_Recommender_System-main$ source /home/k503/下載/20251124_Recommender_System-main/venv/bin/activate
+(venv) k503@k503-Ubuntu-5070ti:~/下載/20251124_Recommender_System-main$ script 20251229_5070-log_bash-terminal.txt
+Script started, output log file is '20251229_5070-log_bash-terminal.txt'.
+k503@k503-Ubuntu-5070ti:~/下載/20251214_Recommender_System-main$ ls > 20251229_5070-log_run-recom
+mender-server-terminal.txt
+k503@k503-Ubuntu-5070ti:~/下載/20251214_Recommender_System-main$ ls > 20251229_5070-log_bash-terminal.txt
+k503@k503-Ubuntu-5070ti:~/下載/20251214_Recommender_System-main$ 
+k503@k503-Ubuntu-5070ti:~/下載/20251214_Recommender_System-main$ 
+k503@k503-Ubuntu-5070ti:~/下載/20251214_Recommender_System-main$ ls > 20251229_5070-log_bash-terminal.txt
+k503@k503-Ubuntu-5070ti:~/下載/20251214_Recommender_System-main$ 
+k503@k503-Ubuntu-5070ti:~/下載/20251214_Recommender_System-main$ ^C
+k503@k503-Ubuntu-5070ti:~/下載/20251214_Recommender_System-main$ 

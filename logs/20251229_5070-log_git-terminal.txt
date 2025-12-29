@@ -1,0 +1,21 @@
+k503@k503-Ubuntu-5070ti:~/下載/20251124_Recommender_System-main$ source /home/k503/下載/20251124_Recommender_System-main/venv/bin/activate
+(venv) k503@k503-Ubuntu-5070ti:~/下載/20251124_Recommender_System-main$ cd recommender
+bash: cd: recommender: 沒有此一檔案或目錄
+(venv) k503@k503-Ubuntu-5070ti:~/下載/20251124_Recommender_System-main$ cd recommender_system/
+(venv) k503@k503-Ubuntu-5070ti:~/下載/20251124_Recommender_System-main/recommender_system$ python manage.py startapp ingredients_extractor
+(venv) k503@k503-Ubuntu-5070ti:~/下載/20251124_Recommender_System-main/recommender_system$ cd ..
+(venv) k503@k503-Ubuntu-5070ti:~/下載/20251124_Recommender_System-main$ git push origin main
+fatal: 不是一個 git 版本庫（或者任何父目錄）：.git
+(venv) k503@k503-Ubuntu-5070ti:~/下載/20251124_Recommender_System-main$ git status
+fatal: 不是一個 git 版本庫（或者任何父目錄）：.git
+(venv) k503@k503-Ubuntu-5070ti:~/下載/20251124_Recommender_System-main$ pwd
+ls -a
+/home/k503/下載/20251124_Recommender_System-main
+.   dietary_reference_intakes  extracted_ingredients.json  start_server.py  venv
+..  dris_calculator.py         recommender_system          test_client.py   .vscode
+(venv) k503@k503-Ubuntu-5070ti:~/下載/20251124_Recommender_System-main$ source /home/k503/下載/20251124_Recommender_System-main/venv/bin/activate
+(venv) k503@k503-Ubuntu-5070ti:~/下載/20251124_Recommender_System-main$ script 20251229_5070-log_git-terminal.txt
+Script started, output log file is '20251229_5070-log_git-terminal.txt'.
+k503@k503-Ubuntu-5070ti:~/下載/20251214_Recommender_System-main$ ls > 20251229_5070-log_git-termi
+nal.txt
+k503@k503-Ubuntu-5070ti:~/下載/20251214_Recommender_System-main$ 
